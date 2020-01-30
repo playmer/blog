@@ -1,0 +1,15 @@
+baseURL = "http://nullterminatedstrings.com/"
+disablePathToLower = true
+languageCode = "en-us"
+pygmentsUseClasses = true
+title = "Null Terminated Strings"
+theme = "hugo_theme_robust"
+
+[params]
+site_author = "Joshua T. Fisher"
+site_description = "Programming, why in the world do we do it?"
+location = "Redmond, WA, USA"
+
+matomo_enabled = false
+matomo_host = ""
+matomo_site_id = 4
